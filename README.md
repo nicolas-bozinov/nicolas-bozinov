@@ -1,7 +1,11 @@
 -Name: Nicolas Bozinov
+
 -Email: nicolasbozinov@gmail.com
+
 -Institution: York University
+
 -Program: Applied Mathematics (3rd year student)
+
 -Programming Languages: Python, MATLAB, Maple
 
 -Courses Taken: 
