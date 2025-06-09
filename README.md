@@ -1,10 +1,10 @@
-Name: Nicolas Bozinov
-Email: nicolasbozinov@gmail.com
-Institution: York University
-Program: Applied Mathematics (3rd year student)
-Programming Languages: Python, MATLAB, Maple
+-Name: Nicolas Bozinov
+-Email: nicolasbozinov@gmail.com
+-Institution: York University
+-Program: Applied Mathematics (3rd year student)
+-Programming Languages: Python, MATLAB, Maple
 
-Courses Taken: 
+-Courses Taken: 
 - MATLAB Programming
 - Intro to Proof Writing
 - Physics Fundamentals I/II
@@ -19,7 +19,7 @@ Courses Taken:
 - Maple Programming
 - Ordinary Differential Equations
 
-Upcoming Courses:
+-Upcoming Courses:
 - Abstract Algebra I
 - Abstract Algebra II
 - Partial Differential Equations
